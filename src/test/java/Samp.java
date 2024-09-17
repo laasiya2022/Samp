@@ -12,5 +12,17 @@ public class Samp {
 		System.out.println("method3");
 
 	}
+	private void method4() {
+		System.out.println("method4");
+
+	}
+	private void method5() {
+		System.out.println("method5");
+
+	}
+	private void method6() {
+		System.out.println("method6");
+
+	}
 
 }
